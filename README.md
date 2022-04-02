@@ -1,6 +1,6 @@
 # ediya
 
-### https://joeunbiin.github.io/ediya/
+### https://joeunbiin.github.io/r_ediya/
 
 ### 🛠 React, Javascript, HTML, CSS, Json
 ----------
